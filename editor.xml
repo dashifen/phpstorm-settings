@@ -1,10 +1,7 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
   </component>
   <component name="XmlEditorOptions">
     <option name="autoCloseTag" value="false" />
@@ -13,6 +10,7 @@
     <option name="automaticallyInsertRequiredSubTags" value="false" />
     <option name="automaticallyStartAttribute" value="false" />
     <option name="insertQuotesForAttributeValue" value="false" />
+    <option name="showCssColorPreviewInGutter" value="false" />
     <option name="syncTagEditing" value="false" />
     <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
