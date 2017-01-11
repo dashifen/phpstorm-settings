@@ -1,9 +1,7 @@
 <scheme name="GitHub Remixed" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
@@ -394,9 +392,7 @@
       </value>
     </option>
     <option name="PHP_OPERATION_SIGN">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
