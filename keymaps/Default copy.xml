@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -28,6 +31,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
