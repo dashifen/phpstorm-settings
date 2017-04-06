@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[sorc.dev.engr.illinois.edu] - ...\private\results'" />
-    <option name="defaultScopeName" value="Directory '[sorc.dev.engr.illinois.edu] - ...\private\results'" />
-    <option name="SEARCH_SCOPE" value="Directory '[sorc.dev.engr.illinois.edu] - ...\private\results'" />
+    <option name="customScope" value="Project 'technopagan-2017'" />
+    <option name="defaultScopeName" value="Project 'technopagan-2017'" />
+    <option name="SEARCH_SCOPE" value="Project 'technopagan-2017'" />
   </component>
 </application>
