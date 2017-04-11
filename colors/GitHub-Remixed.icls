@@ -402,7 +402,6 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="333333" />
-        <option name="BACKGROUND" value="f0f0f0" />
       </value>
     </option>
     <option name="PHP_STATIC_FIELD">
