@@ -7,7 +7,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\Program Files\PHP7\php-cgi.exe" php_cli="C:\Program Files\PHP7\php.exe" path_separator=";" version="7.1.3" warning="Failed loading C:\Program Files\PHP7\ext\php_xdebug-2.5.1-7.0-vc14.dll&#10;">
+        <phpinfo binary_type="PHP" php_cgi="C:\Program Files\PHP7\php-cgi.exe" php_cli="C:\Program Files\PHP7\php.exe" path_separator=";" version="7.1.4" warning="Failed loading C:\Program Files\PHP7\ext\php_xdebug-2.5.1-7.0-vc14.dll&#10;">
           <additional_php_ini />
           <configuration_file>C:\Program Files\PHP7\php.ini</configuration_file>
           <configuration_options>
@@ -30,7 +30,7 @@
             <configuration_option name="browscap" value="" />
             <configuration_option name="cli.pager" value="" />
             <configuration_option name="cli.prompt" value="\b \&gt; " />
-            <configuration_option name="curl.cainfo" value="" />
+            <configuration_option name="curl.cainfo" value="C:\Program Files\PHP7\extras\ssl\cacert.pem" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
