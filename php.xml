@@ -35,7 +35,7 @@
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="America/Tegucigalpa" />
+            <configuration_option name="date.timezone" value="America/New_York" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
             <configuration_option name="default_socket_timeout" value="60" />
@@ -82,6 +82,7 @@
             <configuration_option name="include_path" value=".;C:\php\pear" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
+            <configuration_option name="ldap.max_links" value="-1" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
             <configuration_option name="mail.add_x_header" value="1" />
@@ -181,7 +182,7 @@
             <configuration_option name="session.use_only_cookies" value="1" />
             <configuration_option name="session.use_strict_mode" value="0" />
             <configuration_option name="session.use_trans_sid" value="0" />
-            <configuration_option name="short_open_tag" value="" />
+            <configuration_option name="short_open_tag" value="1" />
             <configuration_option name="smtp_port" value="25" />
             <configuration_option name="soap.wsdl_cache" value="1" />
             <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
@@ -189,6 +190,10 @@
             <configuration_option name="soap.wsdl_cache_limit" value="5" />
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="" />
+            <configuration_option name="sqlsrv.ClientBufferMaxKBSize" value="10240" />
+            <configuration_option name="sqlsrv.LogSeverity" value="0" />
+            <configuration_option name="sqlsrv.LogSubsystems" value="0" />
+            <configuration_option name="sqlsrv.WarningsReturnAsErrors" value="1" />
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="tidy.clean_output" value="" />
             <configuration_option name="tidy.default_config" value="" />
@@ -223,6 +228,66 @@
             <configuration_option name="wincache.ucachesize" value="8" />
             <configuration_option name="wincache.ucenabled" value="1" />
             <configuration_option name="windows.show_crt_warning" value="0" />
+            <configuration_option name="xdebug.auto_trace" value="0" />
+            <configuration_option name="xdebug.cli_color" value="0" />
+            <configuration_option name="xdebug.collect_assignments" value="0" />
+            <configuration_option name="xdebug.collect_includes" value="1" />
+            <configuration_option name="xdebug.collect_params" value="0" />
+            <configuration_option name="xdebug.collect_return" value="0" />
+            <configuration_option name="xdebug.collect_vars" value="0" />
+            <configuration_option name="xdebug.coverage_enable" value="1" />
+            <configuration_option name="xdebug.default_enable" value="1" />
+            <configuration_option name="xdebug.dump.COOKIE" value="" />
+            <configuration_option name="xdebug.dump.ENV" value="" />
+            <configuration_option name="xdebug.dump.FILES" value="" />
+            <configuration_option name="xdebug.dump.GET" value="" />
+            <configuration_option name="xdebug.dump.POST" value="" />
+            <configuration_option name="xdebug.dump.REQUEST" value="" />
+            <configuration_option name="xdebug.dump.SERVER" value="" />
+            <configuration_option name="xdebug.dump.SESSION" value="" />
+            <configuration_option name="xdebug.dump_globals" value="1" />
+            <configuration_option name="xdebug.dump_once" value="1" />
+            <configuration_option name="xdebug.dump_undefined" value="0" />
+            <configuration_option name="xdebug.extended_info" value="1" />
+            <configuration_option name="xdebug.file_link_format" value="" />
+            <configuration_option name="xdebug.force_display_errors" value="0" />
+            <configuration_option name="xdebug.force_error_reporting" value="0" />
+            <configuration_option name="xdebug.halt_level" value="0" />
+            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.max_nesting_level" value="256" />
+            <configuration_option name="xdebug.max_stack_frames" value="-1" />
+            <configuration_option name="xdebug.overload_var_dump" value="2" />
+            <configuration_option name="xdebug.profiler_aggregate" value="0" />
+            <configuration_option name="xdebug.profiler_append" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.profiler_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
+            <configuration_option name="xdebug.remote_addr_header" value="" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="0" />
+            <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
+            <configuration_option name="xdebug.remote_enable" value="0" />
+            <configuration_option name="xdebug.remote_handler" value="dbgp" />
+            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_mode" value="req" />
+            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.scream" value="0" />
+            <configuration_option name="xdebug.show_error_trace" value="0" />
+            <configuration_option name="xdebug.show_exception_trace" value="0" />
+            <configuration_option name="xdebug.show_local_vars" value="0" />
+            <configuration_option name="xdebug.show_mem_delta" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.trace_format" value="0" />
+            <configuration_option name="xdebug.trace_options" value="0" />
+            <configuration_option name="xdebug.trace_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
+            <configuration_option name="xdebug.var_display_max_children" value="128" />
+            <configuration_option name="xdebug.var_display_max_data" value="512" />
+            <configuration_option name="xdebug.var_display_max_depth" value="3" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
             <configuration_option name="zend.assertions" value="-1" />
@@ -234,7 +299,11 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.5.4">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -256,6 +325,7 @@
             <extension name="iconv" />
             <extension name="imap" />
             <extension name="json" />
+            <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mcrypt" />
@@ -268,11 +338,13 @@
             <extension name="readline" />
             <extension name="session" />
             <extension name="soap" />
+            <extension name="sqlsrv" />
             <extension name="standard" />
             <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
             <extension name="wincache" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
