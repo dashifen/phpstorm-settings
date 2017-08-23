@@ -17,6 +17,7 @@
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
+  <action id="EditorToggleInsertState" />
   <action id="EditorUnSelectWord" />
   <action id="GotoNextError" />
   <action id="PublishGroup.SyncLocalVsRemoteWith">
