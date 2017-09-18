@@ -461,6 +461,11 @@
     <option name="SCOPE_KEY_unversioned">
       <value />
     </option>
+    <option name="SQL_PROCEDURE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="333333" />
