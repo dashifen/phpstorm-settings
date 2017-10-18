@@ -4,6 +4,7 @@
       <mapping pattern="SelectOne" type="PHP" />
       <mapping pattern="authy-test" type="PHP" />
       <mapping pattern="SearchbarInterface" type="PHP" />
+      <mapping pattern="Settings" type="PHP" />
       <mapping pattern="license" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
