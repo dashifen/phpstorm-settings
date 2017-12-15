@@ -6,6 +6,8 @@
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="RIGHT_MARGIN_COLOR" value="cccccc" />
+    <option name="VISUAL_INDENT_GUIDE" value="cccccc" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
