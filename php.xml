@@ -7,7 +7,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\Program Files\PHP7\php-cgi.exe" php_cli="C:\Program Files\PHP7\php.exe" path_separator=";" version="7.1.6" warning="Failed loading C:\Program Files\PHP7\ext\php_xdebug-2.5.1-7.0-vc14.dll&#10;">
+        <phpinfo binary_type="PHP" php_cgi="C:\Program Files\PHP7\php-cgi.exe" php_cli="C:\Program Files\PHP7\php.exe" path_separator=";" version="7.2.1" warning="Failed loading C:\Program Files\PHP7\ext\php_xdebug-2.5.1-7.0-vc14.dll&#10;">
           <additional_php_ini />
           <configuration_file>C:\Program Files\PHP7\php.ini</configuration_file>
           <configuration_options>
@@ -102,8 +102,6 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
-            <configuration_option name="mcrypt.algorithms_dir" value="" />
-            <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
@@ -124,7 +122,7 @@
             <configuration_option name="mysqlnd.mempool_default_size" value="16000" />
             <configuration_option name="mysqlnd.net_cmd_buffer_size" value="4096" />
             <configuration_option name="mysqlnd.net_read_buffer_size" value="32768" />
-            <configuration_option name="mysqlnd.net_read_timeout" value="31536000" />
+            <configuration_option name="mysqlnd.net_read_timeout" value="86400" />
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
             <configuration_option name="open_basedir" value="" />
@@ -157,7 +155,7 @@
             <configuration_option name="session.cookie_httponly" value="" />
             <configuration_option name="session.cookie_lifetime" value="0" />
             <configuration_option name="session.cookie_path" value="/" />
-            <configuration_option name="session.cookie_secure" value="" />
+            <configuration_option name="session.cookie_secure" value="0" />
             <configuration_option name="session.gc_divisor" value="1000" />
             <configuration_option name="session.gc_maxlifetime" value="1440" />
             <configuration_option name="session.gc_probability" value="1" />
@@ -188,7 +186,6 @@
             <configuration_option name="soap.wsdl_cache_enabled" value="1" />
             <configuration_option name="soap.wsdl_cache_limit" value="5" />
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
-            <configuration_option name="sql.safe_mode" value="" />
             <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="tidy.clean_output" value="" />
@@ -242,7 +239,6 @@
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
