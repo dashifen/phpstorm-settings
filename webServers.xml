@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="9ff5ac07-5e5e-4243-b300-0cc65a8afcfb" name="nolabels" url="http://localhost">
+      <webServer id="9ff5ac07-5e5e-4243-b300-0cc65a8afcfb" name="engagedev.com" url="http://localhost">
         <fileTransfer host="engagedev.com" port="22" privateKey="C:\Users\dashifen\.ssh\id_rsa" rootFolder="/var/www/sites/engage2017.engagedev.com" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
