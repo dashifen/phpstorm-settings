@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="File Watcher Messages" displayType="NONE" />
-    <notification groupId="Remote Desktop" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
