@@ -16,6 +16,8 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -32,6 +34,10 @@
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
