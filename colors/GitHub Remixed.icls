@@ -1,7 +1,7 @@
 <scheme name="GitHub Remixed" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-05-09T10:37:13</property>
+    <property name="modified">2018-05-09T14:07:00</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="17" />
@@ -422,7 +422,7 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="333333" />
-        <option name="BACKGROUND" value="f5f5f5" />
+        <option name="BACKGROUND" value="fafafa" />
       </value>
     </option>
     <option name="PHP_STRING">
