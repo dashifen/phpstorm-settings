@@ -1,11 +1,13 @@
 <scheme name="GitHub Remixed" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
   </colors>
   <attributes>
@@ -411,6 +413,7 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="333333" />
+        <option name="BACKGROUND" value="f0f0f0" />
       </value>
     </option>
     <option name="PHP_STRING">
