@@ -1,7 +1,7 @@
 <scheme name="GitHub Remixed" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-05-09T14:07:00</property>
+    <property name="modified">2018-05-09T14:37:44</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="17" />
@@ -278,9 +278,7 @@
       </value>
     </option>
     <option name="JS.OPERATION_SIGN">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="JS.PARAMETER">
       <value>
@@ -410,9 +408,6 @@
       <value>
         <option name="FOREGROUND" value="9999" />
       </value>
-    </option>
-    <option name="PHP_OPERATION_SIGN">
-      <value />
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
