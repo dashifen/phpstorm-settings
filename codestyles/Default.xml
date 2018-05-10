@@ -2,6 +2,7 @@
   <option name="RIGHT_MARGIN" value="1000" />
   <option name="SOFT_MARGINS" value="80" />
   <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
@@ -34,6 +35,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
@@ -53,6 +55,7 @@
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
@@ -72,6 +75,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="Twig">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
