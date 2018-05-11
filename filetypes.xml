@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Uninstaller" type="PHP" />
-      <mapping pattern="Settings" type="PHP" />
       <mapping pattern="SearchbarInterface" type="PHP" />
       <mapping pattern="NullLinker" type="PHP" />
+      <mapping pattern="Settings" type="PHP" />
+      <mapping pattern="Uninstaller" type="PHP" />
       <mapping pattern="authy-test" type="PHP" />
       <mapping pattern="SelectOne" type="PHP" />
-      <mapping pattern="license" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="license" type="PLAIN_TEXT" />
+      <mapping ext="vue___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
