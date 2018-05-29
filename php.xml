@@ -7,7 +7,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\Program Files\PHP7\php-cgi.exe" php_cli="C:\Program Files\PHP7\php.exe" path_separator=";" version="7.2.1" warning="Failed loading C:\Program Files\PHP7\ext\php_xdebug-2.5.1-7.0-vc14.dll&#10;">
+        <phpinfo binary_type="PHP" php_cgi="C:\Program Files\PHP7\php-cgi.exe" php_cli="C:\Program Files\PHP7\php.exe" path_separator=";" version="7.2.6">
           <additional_php_ini />
           <configuration_file>C:\Program Files\PHP7\php.ini</configuration_file>
           <configuration_options>
@@ -49,7 +49,7 @@
             <configuration_option name="enable_dl" value="1" />
             <configuration_option name="enable_post_data_reading" value="1" />
             <configuration_option name="error_append_string" value="" />
-            <configuration_option name="error_log" value="" />
+            <configuration_option name="error_log" value="php_errors.log" />
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="22527" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
@@ -102,7 +102,7 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
-            <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="memory_limit" value="512M" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
