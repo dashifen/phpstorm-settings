@@ -66,5 +66,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="ziggeo" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_assets-cdn.ziggeo.com_v2-stable_ziggeo.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_assets-cdn.ziggeo.com_v2-stable_ziggeo.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
