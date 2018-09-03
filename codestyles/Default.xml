@@ -24,7 +24,6 @@
     <option name="ELSE_IF_STYLE" value="COMBINE" />
     <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
-    <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
