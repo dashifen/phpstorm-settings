@@ -33,11 +33,15 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="Stop" />
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
