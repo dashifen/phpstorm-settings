@@ -1,17 +1,9 @@
 <scheme name="GitHub Remixed" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <metaInfo>
-    <property name="modified">2018-06-14T08:05:27</property>
-  </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="RIGHT_MARGIN_COLOR" value="cccccc" />
+    <option name="VISUAL_INDENT_GUIDE" value="cccccc" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
@@ -112,20 +104,6 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value />
-    </option>
-    <option name="DEFAULT_STATIC_FIELD">
-      <value>
-        <option name="FOREGROUND" value="660e7a" />
-      </value>
-    </option>
-    <option name="DEFAULT_STATIC_METHOD">
-      <value />
-    </option>
-    <option name="DIFF_CONFLICT">
-      <value>
-        <option name="BACKGROUND" value="ffded8" />
-        <option name="ERROR_STRIPE_COLOR" value="ffc8bd" />
-      </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
@@ -409,6 +387,9 @@
         <option name="FOREGROUND" value="9999" />
       </value>
     </option>
+    <option name="PHP_OPERATION_SIGN">
+      <value />
+    </option>
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
         <option name="FOREGROUND" value="86b3" />
@@ -417,8 +398,14 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="333333" />
-        <option name="BACKGROUND" value="fafafa" />
+        <option name="BACKGROUND" value="f0f0f0" />
       </value>
+    </option>
+    <option name="PHP_STATIC_FIELD">
+      <value />
+    </option>
+    <option name="PHP_STATIC_METHOD">
+      <value />
     </option>
     <option name="PHP_STRING">
       <value>
@@ -471,6 +458,11 @@
     </option>
     <option name="SCOPE_KEY_unversioned">
       <value />
+    </option>
+    <option name="SQL_PROCEDURE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="TEXT">
       <value>
